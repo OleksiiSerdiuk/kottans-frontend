@@ -1,9 +1,9 @@
 # kottans-frontend
 
-- [x] 0 - <b>Git</b>(#anchor-git) - Done
+- [x] 0 - <b>Git</b> - Done(#anchor-git)
 #
 
-### <a href="anchor-git">Git Recap</a>
+### <a name="anchor-git">Git Recap</a>
 I use git every day.
 But I decided to take this course from 0 to refresh my knowledge.
 ![Screenshot git](./screenshots/git-basics/git.png "Git")
