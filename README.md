@@ -1,6 +1,7 @@
 # kottans-frontend
 
-- [x] 0 - <b>Git</b> - Done(#anchor-git)
+- [x] 0 - <b>Git</b> - [Done](#anchor-git)
+
 #
 
 ### <a name="anchor-git">Git Recap</a>
