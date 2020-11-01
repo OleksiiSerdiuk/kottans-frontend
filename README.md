@@ -27,13 +27,14 @@ The main points that I learned from this course.
 ![Screenshot git](./task_linux_cli/linux-part-1.png "Linux part 1")
 ![Screenshot git](./task_linux_cli/linux-part-2.png "Linux part 2")
 ![Screenshot git](./task_linux_cli/linux-part-3.png "Linux part 3")
-#### Linux CLI Recap
-Useful information to me:
+Useful information to me.<br>
+ <b>Linux CLI Recap:</b>
 - The "more" command is used to view the contents of a file.
 - Moving files
 - A typical "find" command.
 - And another.
-#### HTTP/HTTPS
+
+<b>HTTP/HTTPS</b><br>
 Status Codes:
 - 1xx: Informational Messages
 - 2xx: Successful
